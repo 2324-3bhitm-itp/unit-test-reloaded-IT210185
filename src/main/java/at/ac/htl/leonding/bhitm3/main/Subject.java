@@ -1,9 +1,10 @@
-package at.ac.htl.leonding.bhitm3;
+package at.ac.htl.leonding.bhitm3.main;
 
 public enum Subject {
-    MATH,
+    MATHEMATICS,
     ENGLISH,
     GERMAN,
+    MEDT,
     SEW,
     CHEMISTRY,
     PHYSICS,

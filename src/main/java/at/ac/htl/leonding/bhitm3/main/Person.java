@@ -1,9 +1,8 @@
-package at.ac.htl.leonding.bhitm3;
+package at.ac.htl.leonding.bhitm3.main;
 
 public class Person {
     private String name;
     private String surname;
-
 
     public void setName(String name) {
         this.name = name;
@@ -20,6 +19,4 @@ public class Person {
     public String getSurname() {
         return surname;
     }
-
-    
 }
